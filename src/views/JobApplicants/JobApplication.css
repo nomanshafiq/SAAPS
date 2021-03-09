@@ -1,0 +1,24 @@
+.cardTitleWhite{
+    color: "#FFFFFF";
+    margin-top: "0px";
+    min-Height: "auto";
+    font-Weight: "300";
+    font-size: "'Roboto', 'Helvetica', 'Arial', sans-serif";
+    margin-Bottom: "3px";
+    text-Decoration: "none";
+    
+    }
+    @media only screen and (max-width: 768px) {
+        .cardTitleWhite{
+            color: "#777";
+            font-Size: "65%";
+            font-Weight: "400";
+            line-Height: "1";
+
+        }
+      }
+
+.table_content{
+    align-items: center;
+    text-align: center;
+}
